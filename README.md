@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1137-n-th-tribonacci-number) |
+## Database
+|  |
+| ------- |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
