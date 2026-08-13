@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0066-plus-one) |
+| [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1757-recyclable-and-low-fat-products) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
