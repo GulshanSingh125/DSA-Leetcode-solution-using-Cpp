@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0070-climbing-stairs) |
+| [0326-power-of-three](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1137-n-th-tribonacci-number) |
 ## String
@@ -100,5 +101,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
