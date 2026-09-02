@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0131-palindrome-partitioning](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0917-reverse-only-letters) |
 ## Two Pointers
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0509-fibonacci-number) |
@@ -146,4 +148,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0046-permutations) |
+| [0131-palindrome-partitioning](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
