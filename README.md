@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0509-fibonacci-number) |
@@ -155,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0051-n-queens) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
