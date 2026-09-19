@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0151-reverse-words-in-a-string) |
@@ -186,4 +187,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
