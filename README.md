@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0151-reverse-words-in-a-string) |
 | [0917-reverse-only-letters](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0917-reverse-only-letters) |
+| [3498-reverse-degree-of-a-string](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -215,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
