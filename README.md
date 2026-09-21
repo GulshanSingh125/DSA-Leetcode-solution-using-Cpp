@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0496-next-greater-element-i) |
+| [3524-find-x-value-of-array-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1137-n-th-tribonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3524-find-x-value-of-array-i) |
 ## String
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0213-house-robber-ii) |
 | [0509-fibonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1137-n-th-tribonacci-number) |
+| [3524-find-x-value-of-array-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3524-find-x-value-of-array-i) |
 ## Memoization
 |  |
 | ------- |
