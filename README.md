@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0503-next-greater-element-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0901-online-stock-span) |
 ## Bracket Sequences
 |  |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
