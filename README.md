@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0496-next-greater-element-i) |
 | [3524-find-x-value-of-array-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1137-n-th-tribonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3525-find-x-value-of-array-ii) |
 ## String
 |  |
 | ------- |
@@ -235,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0084-largest-rectangle-in-histogram) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
