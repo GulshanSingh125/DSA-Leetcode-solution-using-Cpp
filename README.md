@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0503-next-greater-element-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3524-find-x-value-of-array-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/3525-find-x-value-of-array-ii) |
 ## Hash Table
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0496-next-greater-element-i) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Math
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -163,10 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/0209-minimum-size-subarray-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/GulshanSingh125/DSA-Leetcode-solution-using-C-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Newton's Method
 |  |
 | ------- |
